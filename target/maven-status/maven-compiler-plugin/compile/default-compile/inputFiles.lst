@@ -1,0 +1,7 @@
+/workspaces/sonarqube/src/com/srk/servlet/EditStudent.java
+/workspaces/sonarqube/src/vo/Student.java
+/workspaces/sonarqube/src/com/srk/servlet/ViewStudents.java
+/workspaces/sonarqube/src/com/srk/dao/StudentDAO.java
+/workspaces/sonarqube/src/com/srk/servlet/SaveEditedStudent.java
+/workspaces/sonarqube/src/com/srk/servlet/DeleteStudent.java
+/workspaces/sonarqube/src/com/srk/servlet/RegistrationController.java
