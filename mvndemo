@@ -27,7 +27,7 @@ pipeline {
             steps {
                 echo "deploy on tomcat "
                 sh '''
-                cp -r /var/lib/jenkins/workspace/newdemo/target/*.war /home/ubuntu/apache-tomcat-8.5.99/webapps/
+                sudo cp -r /var/lib/jenkins/workspace/newdemo/target/*.war /home/ubuntu/apache-tomcat-8.5.99/webapps/
                 '''
             }
         }
