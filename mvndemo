@@ -23,7 +23,7 @@ pipeline {
                 '''
             }
         }
-        stage('deploy') { 
+        stage('deploy for tomcat') { 
             steps {
                 echo "deploy on tomcat "
                 sh '''
